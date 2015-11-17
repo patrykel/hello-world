@@ -1,2 +1,2 @@
 # hello-world
-first repo
+first repo only for practicing skills and acquire experience
